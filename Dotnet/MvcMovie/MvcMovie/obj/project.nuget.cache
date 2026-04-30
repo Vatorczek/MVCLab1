@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2PFfhYhX1c4=",
+  "dgSpecHash": "tLog1RLGlw8=",
   "success": true,
   "projectFilePath": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
@@ -76,13 +76,13 @@
     "C:\\Users\\szymo\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\6.0.2\\microsoft.data.sqlclient.sni.runtime.6.0.2.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\microsoft.diasymreader\\2.0.0\\microsoft.diasymreader.2.0.0.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\microsoft.dotnet.scaffolding.shared\\10.0.2\\microsoft.dotnet.scaffolding.shared.10.0.2.nupkg.sha512",
-    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.2\\microsoft.entityframeworkcore.10.0.2.nupkg.sha512",
-    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.2\\microsoft.entityframeworkcore.abstractions.10.0.2.nupkg.sha512",
-    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.2\\microsoft.entityframeworkcore.analyzers.10.0.2.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.7\\microsoft.entityframeworkcore.10.0.7.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.7\\microsoft.entityframeworkcore.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.7\\microsoft.entityframeworkcore.analyzers.10.0.7.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\10.0.2\\microsoft.entityframeworkcore.design.10.0.2.nupkg.sha512",
-    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.2\\microsoft.entityframeworkcore.relational.10.0.2.nupkg.sha512",
-    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.2\\microsoft.entityframeworkcore.sqlserver.10.0.2.nupkg.sha512",
-    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.2\\microsoft.entityframeworkcore.tools.10.0.2.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.7\\microsoft.entityframeworkcore.relational.10.0.7.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.7\\microsoft.entityframeworkcore.sqlserver.10.0.7.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.7\\microsoft.entityframeworkcore.tools.10.0.7.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.2\\microsoft.extensions.dependencymodel.10.0.2.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\microsoft.identity.client\\4.73.1\\microsoft.identity.client.4.73.1.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.73.1\\microsoft.identity.client.extensions.msal.4.73.1.nupkg.sha512",
@@ -129,5 +129,30 @@
     "C:\\Users\\szymo\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.4\\system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Pakiet „NuGet.Packaging” 6.12.1 ma znane niska luki w zabezpieczeniach o ważności, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "libraryId": "NuGet.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Pakiet „NuGet.Protocol” 6.12.1 ma znane niska luki w zabezpieczeniach o ważności, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "libraryId": "NuGet.Protocol",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

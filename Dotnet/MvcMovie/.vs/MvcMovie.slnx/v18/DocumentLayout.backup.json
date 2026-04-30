@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|e:\\repozytoria github studia\\mvclab1\\dotnet\\mvcmovie\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|e:\\repozytoria github studia\\mvclab1\\dotnet\\mvcmovie\\mvcmovie\\migrations\\20260430031818_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\migrations\\20260430031818_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|e:\\repozytoria github studia\\mvclab1\\dotnet\\mvcmovie\\mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|e:\\repozytoria github studia\\mvclab1\\dotnet\\mvcmovie\\mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|e:\\repozytoria github studia\\mvclab1\\dotnet\\mvcmovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|e:\\repozytoria github studia\\mvclab1\\dotnet\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|e:\\repozytoria github studia\\mvclab1\\dotnet\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB97CB9-D321-04C1-136F-224636A3D34D}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
-              "RelativeDocumentMoniker": "MvcMovie\\Models\\SeedData.cs",
-              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
-              "RelativeToolTip": "MvcMovie\\Models\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20260430031818_Rating.cs",
+              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Migrations\\20260430031818_Rating.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Migrations\\20260430031818_Rating.cs",
+              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Migrations\\20260430031818_Rating.cs",
+              "RelativeToolTip": "MvcMovie\\Migrations\\20260430031818_Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T15:23:36.228Z",
+              "WhenOpened": "2026-04-30T03:18:18.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Program.cs",
-              "RelativeDocumentMoniker": "MvcMovie\\Program.cs",
-              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Program.cs",
-              "RelativeToolTip": "MvcMovie\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MvcMovieContext.cs",
+              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Data\\MvcMovieContext.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Data\\MvcMovieContext.cs",
+              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Data\\MvcMovieContext.cs",
+              "RelativeToolTip": "MvcMovie\\Data\\MvcMovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T13:42:59.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T03:04:21.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T02:43:59.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAA1wHQAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T02:42:28.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
+              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Dotnet\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T02:42:25.195Z"
             }
           ]
         }

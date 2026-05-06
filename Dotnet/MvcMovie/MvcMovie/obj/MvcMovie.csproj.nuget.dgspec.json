@@ -30,12 +30,14 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1510"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -43,13 +45,12 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
@@ -61,6 +62,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.7, )"
+            },
+            "Microsoft.Extensions.Validation": {
+              "target": "Package",
+              "version": "[10.0.0, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

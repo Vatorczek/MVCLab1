@@ -1494,6 +1494,19 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "Microsoft.Extensions.Validation/10.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net10.0/_._": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/_._": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Identity.Client/4.73.1": {
         "type": "package",
         "dependencies": {
@@ -4762,6 +4775,22 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Microsoft.Extensions.Validation/10.0.0": {
+      "sha512": "viIKcmaf1akdhx77c+dLkODvhL+HyonHNpBsicndoi47zvbSeHJEWPOk188NnFCh+dCUz7Icld1jPMbS5E2fqw==",
+      "type": "package",
+      "path": "microsoft.extensions.validation/10.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "analyzers/dotnet/cs/Microsoft.Extensions.Validation.ValidationsGenerator.dll",
+        "lib/net10.0/Microsoft.Extensions.Validation.dll",
+        "lib/net10.0/Microsoft.Extensions.Validation.xml",
+        "microsoft.extensions.validation.10.0.0.nupkg.sha512",
+        "microsoft.extensions.validation.nuspec"
+      ]
+    },
     "Microsoft.Identity.Client/4.73.1": {
       "sha512": "NnDLS8QwYqO5ZZecL2oioi1LUqjh5Ewk4bMLzbgiXJbQmZhDLtKwLxL3DpGMlQAJ2G4KgEnvGPKa+OOgffeJbw==",
       "type": "package",
@@ -6125,6 +6154,7 @@
     "net10.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.7",
+      "Microsoft.Extensions.Validation >= 10.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 10.0.2"
     ]
   },
@@ -6164,6 +6194,9 @@
         }
       },
       "warningProperties": {
+        "noWarn": [
+          "NU1510"
+        ],
         "warnAsError": [
           "NU1605"
         ]
@@ -6171,7 +6204,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "10.0.200"
     },
@@ -6189,6 +6222,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[10.0.7, )"
+          },
+          "Microsoft.Extensions.Validation": {
+            "target": "Package",
+            "version": "[10.0.0, )"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
@@ -6631,27 +6668,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1901",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Pakiet „NuGet.Packaging” 6.12.1 ma znane niska luki w zabezpieczeniach o ważności, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "libraryId": "NuGet.Packaging",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1901",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Pakiet „NuGet.Protocol” 6.12.1 ma znane niska luki w zabezpieczeniach o ważności, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "libraryId": "NuGet.Protocol",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    }
-  ]
+  }
 }

@@ -1,10 +1,10 @@
 # Portfelik 
 
 ## Spis treści:
-1. [Opis projektu](https://github.com/Vatorczek/gotki-test/new/main?filename=README.md#instrukcja-uruchomienia)
-2. [Funkcjonalności](https://github.com/Vatorczek/gotki-test/new/main?filename=README.md#instrukcja-uruchomienia)
-3. [Technologie](https://github.com/Vatorczek/gotki-test/new/main?filename=README.md#instrukcja-uruchomienia)
-4. [Instrukcja uruchomienia](https://github.com/Vatorczek/gotki-test/new/main?filename=README.md#instrukcja-uruchomienia)
+1. Opis projektu
+2. Funkcjonalności
+3. Technologie
+4. Instrukcja uruchomienia
 
 ## Opis projektu
 

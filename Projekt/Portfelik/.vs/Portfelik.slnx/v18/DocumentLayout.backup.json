@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repozytoria github studia\\MVCLab1\\Projekt\\Portfelik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F928B298-1CC7-95C2-9DBE-E80EEE1EE57E}|Portfelik\\Portfelik.csproj|e:\\repozytoria github studia\\mvclab1\\projekt\\portfelik\\portfelik\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F928B298-1CC7-95C2-9DBE-E80EEE1EE57E}|Portfelik\\Portfelik.csproj|solutionrelative:portfelik\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F928B298-1CC7-95C2-9DBE-E80EEE1EE57E}|Portfelik\\Portfelik.csproj|e:\\repozytoria github studia\\mvclab1\\projekt\\portfelik\\portfelik\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F928B298-1CC7-95C2-9DBE-E80EEE1EE57E}|Portfelik\\Portfelik.csproj|solutionrelative:portfelik\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F928B298-1CC7-95C2-9DBE-E80EEE1EE57E}|Portfelik\\Portfelik.csproj|e:\\repozytoria github studia\\mvclab1\\projekt\\portfelik\\portfelik\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F928B298-1CC7-95C2-9DBE-E80EEE1EE57E}|Portfelik\\Portfelik.csproj|solutionrelative:portfelik\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Projekt\\Portfelik\\Portfelik\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "Portfelik\\Controllers\\ExpensesController.cs",
+              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Projekt\\Portfelik\\Portfelik\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "Portfelik\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAmwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T17:34:19.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Projekt\\Portfelik\\Portfelik\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portfelik\\Views\\Expenses\\Index.cshtml",
+              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Projekt\\Portfelik\\Portfelik\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "Portfelik\\Views\\Expenses\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T17:30:16.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "E:\\Repozytoria github studia\\MVCLab1\\Projekt\\Portfelik\\Portfelik\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Portfelik\\Models\\Expense.cs",
+              "ToolTip": "E:\\Repozytoria github studia\\MVCLab1\\Projekt\\Portfelik\\Portfelik\\Models\\Expense.cs",
+              "RelativeToolTip": "Portfelik\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T17:13:43.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
